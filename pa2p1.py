@@ -1,7 +1,7 @@
 import sys
 import random
 import os
-3yh
+
 fileIn = sys.argv[1]
 fileOut = sys.argv[2]
 
